@@ -1,0 +1,26 @@
+{
+  "name": "alx-react",
+  "version": "1.0.0",
+  "description": "Alx webpack project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/y0rdinary/alx-react.git"
+  },
+  "author": "y0rdinary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/y0rdinary/alx-react/issues"
+  },
+  "homepage": "https://github.com/y0rdinary/alx-react#readme",
+  "devDependencies": {
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
