@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/y0rdinary/alx-react.git/static/css/main.073c9b0a.css",
+    "main.js": "/y0rdinary/alx-react.git/static/js/main.7662ec7c.js",
+    "static/js/787.545aecf5.chunk.js": "/y0rdinary/alx-react.git/static/js/787.545aecf5.chunk.js",
+    "static/media/logo.svg": "/y0rdinary/alx-react.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/y0rdinary/alx-react.git/index.html",
+    "main.073c9b0a.css.map": "/y0rdinary/alx-react.git/static/css/main.073c9b0a.css.map",
+    "main.7662ec7c.js.map": "/y0rdinary/alx-react.git/static/js/main.7662ec7c.js.map",
+    "787.545aecf5.chunk.js.map": "/y0rdinary/alx-react.git/static/js/787.545aecf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7662ec7c.js"
+  ]
+}
