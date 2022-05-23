@@ -1,9 +1,11 @@
 import React from 'react';
 import './Notifications.css'
+import closeIcon from './close-icon.png'
+import {getLatestNotification} from './utils';
 
 function Notifications() {
     return (
-        <div className="Notifications">
+      <div className="Notifications">
           <p style={{display:'inline',}}>Here is the list of notifications</p>
           <ul>
             <li data='default' style={{paddingLeft:'5px'}}>New course available</li>
@@ -15,6 +17,6 @@ function Notifications() {
           </button>
       </div>
     );
-}
-
-export default Notifications;
+  }
+  
+  export default Notifications;
